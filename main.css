@@ -1,0 +1,17 @@
+* {
+  font-family: "Roboto Mono", monospace;
+}
+
+#ul li {
+  /* margin: 5px; */
+  /* padding: 5px; */
+  background-color: rgb(183, 236, 211);
+  /* width: 50%;  */
+}
+
+li {
+  list-style-type: none;
+}
+
+input {
+}
